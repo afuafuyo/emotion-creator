@@ -1,0 +1,6 @@
+{
+    "nodemonConfig": {
+        "delay": "2000"
+    },
+    "ignore": ["public/*"]
+}
