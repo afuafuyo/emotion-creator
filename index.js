@@ -5,7 +5,12 @@ const R = require('candyjs/midwares/Resource');
 const Hook = require('candyjs/core/Hook');
 
 Candy.setPathAlias('@template', __dirname + '/node_modules');
-Hook.addHook(R.serve(__dirname + '/public'));
+Hook.addHook(R.serve(__dirname + '/public', {
+    mime: {
+        'ttf': 'font/ttf',
+        'woff': 'font/woff'
+    }
+}));
 
 new CandyJs(new App({
     'id': 1,
