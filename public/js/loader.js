@@ -1,6 +1,8 @@
 /**
  * js loader
  *
+ * @author [afu](https://github.com/afuafuyo)
+ *
  * loader.config({
  *     baseUrl: 'http://xxx.com/js',
  *     debug: true

@@ -1,6 +1,6 @@
 ## 制图工具
 
-本项目是一款基于 nodejs 的开源表情包制作工具
+本项目是一款基于 nodejs javascript 的开源表情包制作工具，斗图必不可少
 
 ![thumb](./thumb.png)
 
