@@ -4,6 +4,8 @@
 
 ![thumb](./thumb.png)
 
+预览图片显示不了的，可以参考 [gitee](https://gitee.com/tailipu/emotion-creator)
+
 ## 说明
 
 本程序仅限用于 nodejs 框架学习，不做商业用途
